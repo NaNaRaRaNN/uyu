@@ -1,0 +1,29 @@
+h1{
+	text-transform: uppercase;
+	text-align: center;
+	margin-top: 150px;
+	font-size: 50px;
+}
+body{
+	font-family: sans-serif;
+	background-size: cover;
+	background-attachment: fixed;
+}
+	
+
+p{
+	font-size: 25px;
+	display: block;
+	margin: 0 auto;
+	width: 80%;
+	text-align: justify;
+}
+h2{
+	text-transform: uppercase;
+	text-align: center;
+	margin-top: 140px;
+	font-size: 40px;
+}
+.shadow{
+	 text-shadow: 1px 0 1px #000, 0 1px 1px #000, -1px 0 1px #000, 0 -1px 1px #000;
+}
